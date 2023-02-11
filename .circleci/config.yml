@@ -12,7 +12,7 @@ executors:
     resource_class: small
   docker-publisher:
     environment:
-      IMAGE_NAME: uzoeddie/cinemadb
+      IMAGE_NAME: doujones/cinemadb
     docker:
       - image: circleci/buildpack-deps:stretch
   terraform-executor:
