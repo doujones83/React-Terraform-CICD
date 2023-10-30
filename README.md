@@ -11,7 +11,11 @@
 * AWS Cloudfront
 * Slack
 * Sentry
+* EC2
 
 # React-Terraform-CICD
 
 terraform.io/docs/providers/index.html
+<img width="601" alt="Screen Shot 2023-10-30 at 3 55 49 AM" src="https://github.com/doujones83/React-Terraform-CICD/assets/59512235/e63001a1-6833-4aba-af81-54d18b7ff863">
+![Screen Shot 2023-10-30 at 3 03 02 AM](https://github.com/doujones83/React-Terraform-CICD/assets/59512235/937fe278-4ec6-47f1-aab5-08f03b21aa17)
+<img width="599" alt="Screen Shot 2023-10-30 at 3 57 27 AM" src="https://github.com/doujones83/React-Terraform-CICD/assets/59512235/ca949f57-5c9c-4a67-81cd-4049af6ae795">
